@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("hello git");
             Console.WriteLine("chao");
+            Console.WriteLine("chao");
             Console.WriteLine("hello world");
         }
     }
