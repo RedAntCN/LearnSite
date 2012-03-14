@@ -1,0 +1,17 @@
+﻿#outer
+{
+	width:800px;
+	margin:0 auto;
+	border:solid 1px red;
+	
+}
+#header
+{
+	background:green;
+	height:150px;
+}
+#footer
+{
+	text-align:center;
+	
+	}
