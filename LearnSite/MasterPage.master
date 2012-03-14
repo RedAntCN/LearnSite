@@ -25,7 +25,18 @@
         </div>
     </form>
     <div id="footer">
-         &copy;2012 RedAnt 
+        <div>
+            <ul>
+                <li>
+                   <a href="#"> 网站首页 |</a>
+                </li>
+                <li><a href="#">关于我们</a></li>
+            </ul>
+        </div>
+        <div>
+        <span id="copyright">&copy;</span>2012 RedAnt 
+        </div>
+         
     </div>
 </div>
     

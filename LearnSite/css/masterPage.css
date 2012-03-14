@@ -1,6 +1,6 @@
 ﻿#outer
 {
-	width:800px;
+	width:860px;
 	margin:0 auto;
 	border:solid 1px red;
 	
@@ -12,6 +12,21 @@
 }
 #footer
 {
-	text-align:center;
-	
-	}
+	height:100px;
+	text-align: center;
+	font-family: 宋体, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+#copyright
+{
+	font-family: 宋体, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+#footer ul li
+{
+	display:inline;
+}
+#footer ul li a
+{
+	color:Black;
+	text-decoration:none;
