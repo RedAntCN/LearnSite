@@ -1,0 +1,5 @@
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\DAL\bin\Debug\DAL.dll
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\DAL\bin\Debug\DAL.pdb
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\DAL\obj\Debug\DAL.dll
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\DAL\obj\Debug\DAL.pdb

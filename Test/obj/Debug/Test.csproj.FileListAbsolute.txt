@@ -1,0 +1,7 @@
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\Test\bin\Debug\Test.exe
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\Test\bin\Debug\Test.pdb
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\Test\bin\Debug\Model.dll
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\Test\bin\Debug\Model.pdb
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\Test\obj\Debug\Test.exe
+D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\Test\obj\Debug\Test.pdb
