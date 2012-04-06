@@ -10,7 +10,7 @@ namespace Test
         {
             Model.CommomRowDataModel c = new Model.CommomRowDataModel();
             c.SetValue("FirstName", "Ouch");
-            c.SetValue("LastName", "OO");
+             
             Console.WriteLine(c.ColumnCount);
             Console.WriteLine(c.GetValue("FirstName").ToString());
             Console.ReadKey();

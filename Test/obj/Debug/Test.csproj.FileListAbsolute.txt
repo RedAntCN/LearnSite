@@ -5,3 +5,5 @@ D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\Test\bin\Debug\Mode
 D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\Test\obj\Debug\ResolveAssemblyReference.cache
 D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\Test\obj\Debug\Test.exe
 D:\My Documents\Visual Studio 2008\Projects\RedAnt\LearnSite\Test\obj\Debug\Test.pdb
+D:\LearnSite\LearnSite\Test\obj\Debug\Test.exe
+D:\LearnSite\LearnSite\Test\obj\Debug\Test.pdb
